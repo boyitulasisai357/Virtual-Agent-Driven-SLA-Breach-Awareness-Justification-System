@@ -28,4 +28,4 @@ This project was developed on the ServiceNow platform to proactively monitor Inc
 The complete project report is available in **Final Report.pdf**.
 
 ## Author
-**Syam Prakash Lanka**
+**Saradh Vamsi Kusunuri**
